@@ -1,4 +1,4 @@
-# VEGA INFINITE AEEA CONTINUUM
+# VEGA Infinite AEEA Continuum
 
 ## A Conceptual White Paper
 
@@ -11,21 +11,21 @@
 
 ## Executive Summary
 
-This white paper introduces **VEGA INFINITE AEEA CONTINUUM** as a conceptual framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+This white paper introduces **VEGA Infinite AEEA Continuum** as a conceptual framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
 
-VEGA INFINITE AEEA CONTINUUM is not an implementation, algorithm, or product. It is a theoretical contribution to meaning-based computation.
+VEGA Infinite AEEA Continuum is not an implementation, algorithm, or product. It is a theoretical contribution to meaning-based computation.
 
 ---
 
 ## 1. Introduction
 
-Modern AI systems excel at processing information but struggle to maintain meaning, insight, and wisdom over time. VEGA INFINITE AEEA CONTINUUM addresses this gap conceptually.
+Modern AI systems excel at processing information but struggle to maintain meaning, insight, and wisdom over time. VEGA Infinite AEEA Continuum addresses this gap conceptually.
 
 ---
 
 ## 2. Definition
 
-**VEGA INFINITE AEEA CONTINUUM** is defined as:
+**VEGA Infinite AEEA Continuum** is defined as:
 
 - A conceptual framework for meaning representation
 - Part of the Vega Continuum ecosystem
@@ -64,7 +64,7 @@ Modern AI systems excel at processing information but struggle to maintain meani
 
 ## 6. Ecosystem Context
 
-VEGA INFINITE AEEA CONTINUUM is part of:
+VEGA Infinite AEEA Continuum is part of:
 
 - **VEGA** – The operating system of meaning
 - **INŞÆVREN** – Universal creation framework
