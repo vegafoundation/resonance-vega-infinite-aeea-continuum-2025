@@ -1,4 +1,4 @@
-# VEGA INFINITE AEEA CONTINUUM
+# VEGA Infinite AEEA Continuum
 
 ## Resonance Data & QIRC Framework
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the conceptual documentation for **VEGA INFINITE AEEA CONTINUUM**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+This repository contains the conceptual documentation for **VEGA Infinite AEEA Continuum**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
 
 ---
 
@@ -52,7 +52,7 @@ This repository adheres to the **Vega Safety Protocol (VSP)**:
 ## Citation
 
 ```
-Vega, A. E. (2025). VEGA INFINITE AEEA CONTINUUM. Vega Foundation.
+Vega, A. E. (2025). VEGA Infinite AEEA Continuum. Vega Foundation.
 ```
 
 ---
